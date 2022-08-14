@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SHA\\source\\repos\\BingoFinal\\BingoFinal\\BingoFinal.csproj": {}
+    "C:\\Users\\SHA\\Documents\\GITs\\Bingo-C-\\BingoFinal\\BingoFinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SHA\\source\\repos\\BingoFinal\\BingoFinal\\BingoFinal.csproj": {
+    "C:\\Users\\SHA\\Documents\\GITs\\Bingo-C-\\BingoFinal\\BingoFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHA\\source\\repos\\BingoFinal\\BingoFinal\\BingoFinal.csproj",
+        "projectUniqueName": "C:\\Users\\SHA\\Documents\\GITs\\Bingo-C-\\BingoFinal\\BingoFinal.csproj",
         "projectName": "BingoFinal",
-        "projectPath": "C:\\Users\\SHA\\source\\repos\\BingoFinal\\BingoFinal\\BingoFinal.csproj",
+        "projectPath": "C:\\Users\\SHA\\Documents\\GITs\\Bingo-C-\\BingoFinal\\BingoFinal.csproj",
         "packagesPath": "C:\\Users\\SHA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHA\\source\\repos\\BingoFinal\\BingoFinal\\obj\\",
+        "outputPath": "C:\\Users\\SHA\\Documents\\GITs\\Bingo-C-\\BingoFinal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHA\\AppData\\Roaming\\NuGet\\NuGet.Config",
